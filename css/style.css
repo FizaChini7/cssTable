@@ -1,0 +1,251 @@
+h1{
+    text-align:center;
+    color:rgba(165, 20, 97, 0.775);
+}
+.main{
+    margin: auto;
+    background: rgb(25, 12, 198);
+    height: 970px;
+    width: 1100px;
+}
+.one{
+    height: 150px;
+    width: 40%;
+    background: green;
+  float: left;
+    
+}
+.two{
+    height: 150px;
+    width: 60%;
+    background: red;
+   float: left;
+    
+}
+.two .three{
+    height: 70px;
+    background: yellow;
+    
+}
+.two .three .threepointone{
+    width: 50%;
+    height: 70px;
+    background: pink;
+}
+
+.four{
+    height: 100px;
+    background: gray;
+    width: 100%;
+    float: left;
+}
+.four .fourone{
+    width: 20%;
+    height: 100px;
+    background: paleturquoise;
+    float: left;
+}
+.four .fourtwo{
+    width: 20%;
+    height: 100px;
+    background: rgb(238, 175, 221);
+    float: left;
+}
+.four .fourthree{
+    width: 20%;
+    height: 100px;
+    background: rgb(7, 238, 7);
+    float: left;
+}
+.four .fourfour{
+    width: 20%;
+    height: 100px;
+    background: rgb(89, 24, 194);
+    float: left;
+}
+.four .fourfive{
+    width: 20%;
+    height: 100px;
+    background: rgb(19, 226, 226);
+    float: left;
+}
+.five{
+    background: red;
+    height: 170px;
+    width: 55%;
+    float: left;
+}
+.five .fiveone{
+    width: 45%;
+    height: 170px;
+    background: greenyellow;
+    float: left;
+}
+.five .fivetwo{
+    width: 55%;
+    height: 170px;
+    background: rgb(255, 47, 189);
+    float: left;
+}
+.six{
+    background: red;
+    height: 370px;
+    width: 45%;
+    float: left;
+}
+.six .sixone{
+    width: 60%;
+    height: 370px;
+    background: rgb(71, 47, 255);
+    float: left;
+}
+.sixone .sixoneone{
+    width: 100%;
+    height: 33%;
+    background: rgb(119, 238, 59);
+    float: left;
+}
+.sixone .sixonetwo{
+    width: 100%;
+    height: 34%;
+    background: rgb(252, 137, 137);
+    float: left;
+}
+.sixone .sixonethree{
+    width: 100%;
+    height: 33%;
+    background: rgb(161, 24, 138);
+    float: left;
+}
+.six .sixtwo{
+    width: 40%;
+    height: 370px;
+    background: rgb(47, 255, 175);
+    float: left;
+}
+
+.sixtwo .sixtwoone{
+    width: 100%;
+    height: 50%;
+    background: rgb(28, 117, 218);
+    float: left;
+}
+.sixtwo .sixtwotwo{
+    width: 100%;
+    height: 50%;
+    background: rgb(208, 225, 13);
+    float: left;
+}
+.seven{
+    background: red;
+    height: 380px;
+    width: 55%;
+    float: left;
+margin-top: -200px;}
+
+.seven .sevenone{
+    width: 60%;
+    height: 380px;
+    background: rgb(208, 225, 13);
+    float: left;
+}
+.seven .seventwo{
+    width: 40%;
+    height: 380px;
+    background: rgb(98, 65, 247);
+    float: left;
+}
+.sevenone .sevenoneone{
+    width: 100%;
+    height: 190px;
+    background: rgb(250, 93, 93);
+    float: left;
+}
+.sevenone .sevenonetwo{
+    width: 100%;
+    height: 190px;
+    background: rgb(13, 190, 225);
+    float: left;
+}
+.sevenonetwo .sevenonetwoone{
+    width: 45%;
+    height: 190px;
+    background: rgb(245, 19, 200);
+    float: left;
+}
+.sevenonetwo .sevenonetwotwo{
+    width: 55%;
+    height: 190px;
+    background: rgb(117, 68, 202);
+    float: left;
+}
+.sevenonetwotwo .sevenonetwotwoone{
+    width: 100%;
+    height: 95px;
+    background: rgb(13, 243, 71);
+    float: left;
+}
+.sevenonetwotwo .sevenonetwotwotwo{
+    width: 100%;
+    height: 95px;
+    background: rgb(244, 93, 38);
+    float: left;
+}
+.seventwo .seventwoone{
+    width: 100%;
+    height: 40%;
+    background: rgb(31, 114, 248);
+    float: left;
+}
+.seventwo .seventwotwo{
+    width: 100%;
+    height: 60%;
+    background: rgb(237, 245, 29);
+    float: left;
+}
+.eight{
+    width: 45%;
+    height: 180px;
+    background: gray;
+    float: left;
+}
+.eight .eightone{
+    width: 50%;
+    height: 180px;
+    background: rgb(255, 64, 0);
+    float: left;
+}
+.eight .eighttwo{
+    width: 50%;
+    height: 180px;
+    background: rgb(9, 243, 75);
+    float: left;
+}
+.nine{
+    width: 100%;
+    height: 170px;
+    background: gray;
+    float: left;
+}
+.nine .nineone{
+    width: 33%;
+    height: 170px;
+    background: rgb(8, 239, 247);
+    float: left;
+}
+.nine .ninetwo{
+    width: 34%;
+    height: 170px;
+    background: rgb(247, 139, 8);
+    float: left;
+}
+.nine .ninethree{
+    width: 33%;
+    height: 170px;
+    background: rgb(142, 25, 244);
+    float: left;
+}
+
+
+
+
